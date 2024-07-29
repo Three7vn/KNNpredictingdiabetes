@@ -1,4 +1,4 @@
-This project predicts diabetes using a KNN classifier with health metrics such as Glucose, Blood Pressure, Skin Thickness, BMI, and Insulin. The model classifies individuals into “Not diabetic” and “Diabetic.”
+This mini-project predicts diabetes using a KNN classifier with health metrics such as Glucose, Blood Pressure, Skin Thickness, BMI, and Insulin. The model classifies individuals into “Not diabetic” and “Diabetic.”
 
 Data Preparation: Replaced zeros in specific columns with the mean to handle missing values.
 Feature Scaling: Standardised features to ensure consistency.
